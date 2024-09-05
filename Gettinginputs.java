@@ -21,7 +21,7 @@ class Song{
     String artist = input.nextLine();
     
     System.out.println("---------------------------------------------- ");
-    System.out.print("SONG DETAILS ");
+    System.out.println("SONG DETAILS ");
     System.out.println("---------------------------------------------- ");
     System.out.println("Year Released: " + year);
     System.out.println("Genre: " + genre);
